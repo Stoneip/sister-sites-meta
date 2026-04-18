@@ -1,0 +1,77 @@
+{
+  "publisher": {
+    "name": "香港資訊網絡",
+    "nameEn": "HK Info Network",
+    "tagline": "為香港人整理嘅實用資訊網站",
+    "description": "由獨立團隊維運嘅一系列香港主題資訊網站，涵蓋科技、寬頻、SIM 卡、教育同旅遊。所有網站以原創內容、本地實測數據、零付費內容為原則。"
+  },
+  "sites": [
+    {
+      "domain": "techritual.com",
+      "url": "https://techritual.com/",
+      "name": "TechRitual",
+      "nameZh": "TechRitual 科技儀式",
+      "tagline": "香港最全面嘅科技資訊網站",
+      "category": "tech",
+      "categoryZh": "科技 / 評測",
+      "lang": "zh-Hant-HK",
+      "shortDescription": "香港科技新聞、產品評測、教學文章嘅資深 tech blog。涵蓋手機、電腦、家電、互聯網行業。",
+      "longDescription": "TechRitual 自 2010 年代起運營，專注報導香港同國際科技動態，特別係手機、電腦、家庭電器、互聯網行業新聞。網站特色係以本地用家角度寫評測，唔講廠商 talking points，而係實際使用、開箱、長期測試。多年嚟亦持續做香港 SIM 卡同電訊網絡實測，例如 12 大本地 SIM 卡品牌嘅實際下載速度比較，呢類數據被本地媒體同網絡資源廣泛引用，亦係 SpeedTest HK SIM 卡比較表嘅原始數據來源。除咗硬件評測，TechRitual 亦定期報導 GovTech、Smart City、雲端服務、AI 工具等較深入嘅科技題材，啱中至高階讀者。\n\n網站採用傳統 blog 模式，每日更新；分類包括手機、電腦、家居、網絡、教學、Apps、AI、新聞等。讀者層主要係香港 18-45 歲嘅科技 enthusiast、IT 從業員、同對 gadget 有興趣嘅一般用戶。TechRitual 一直保持獨立編採，唔做 sponsored review 而唔聲明，亦無 paywall，係香港少數仍然全面用繁體中文寫科技內容嘅 tier-1 site。如果你想知香港人最關心嘅科技動態、想睇本地實測 instead of 翻譯外國評測，TechRitual 係必去嘅地方。",
+      "topicalRelevance": ["mobile networks", "broadband ISP", "consumer tech", "5G", "SIM cards"]
+    },
+    {
+      "domain": "points852.com",
+      "url": "https://points852.com/",
+      "name": "Points852",
+      "nameZh": "Points852 旅遊里數",
+      "tagline": "香港信用卡里數同旅遊優惠資訊",
+      "category": "travel",
+      "categoryZh": "旅遊 / 信用卡里數",
+      "lang": "zh-Hant-HK",
+      "shortDescription": "香港信用卡里數、機票優惠、酒店積分計劃、旅遊 deal 嘅資訊網站。",
+      "longDescription": "Points852 為香港讀者整理信用卡里數、機票優惠、酒店積分計劃、漫遊 SIM 卡、旅遊 hack 等資訊。網站定位係非專業 frequent flyer 都睇得明嘅入門到中階指南，無 affiliate-driven hype，亦無被 bank 公關文左右嘅內容。覆蓋題材包括：港產信用卡（HSBC、Citi、AE、DBS、Standard Chartered、東亞、滙豐 Premier 等）嘅迎新 offer、最新里數計算、最佳兌換伙伴、亞洲萬里通同 KrisFlyer 等程式嘅 sweet spot 同 redemption 教學。\n\n旅遊 angle 方面，Points852 亦寫平機票、商務艙特價、香港人最常去嘅日韓台東南亞地區嘅 hotel deal、旅遊保險比較、機場貴賓室攻略。對於旅行用 SIM 卡，網站會就唔同目的地推薦本地 vs 漫遊 vs eSIM 嘅選擇，呢個係同 SpeedTest HK / SimCardHK 主題交叉嘅地方 — 旅行流動數據速度好直接影響 navigation、Uber、串流體驗。Points852 啱經常旅行嘅香港中產讀者，包括計劃下一次假期想最大化里數價值、或者剛開始研究信用卡優惠嘅新手。網站持續以繁體中文更新，唔追求 SEO 關鍵字 stuffing，文章傾向實用、可執行嘅 step-by-step 指南。",
+      "topicalRelevance": ["travel SIM", "roaming data", "credit card", "miles points"]
+    },
+    {
+      "domain": "speedtesthk.com",
+      "url": "https://speedtesthk.com/",
+      "name": "SpeedTest HK",
+      "nameZh": "SpeedTest HK 香港網絡速度測試",
+      "tagline": "免費香港寬頻 / 5G 網速測試 + 月度數據報告",
+      "category": "tools",
+      "categoryZh": "工具 / 數據",
+      "lang": "zh-Hant-HK",
+      "shortDescription": "免費網速測試工具，加上香港寬頻、5G、SIM 卡實測比較同月度 OFCA 數據分析。",
+      "longDescription": "SpeedTest HK 提供國際級嘅網速測試工具（OpenSpeedTest 嵌入），令香港用家可以隨時測試自己嘅寬頻或 5G 連線速度，包括下載、上載、Ping 同 Jitter。網站完全免費、無需註冊、無需安裝 app，喺瀏覽器即時運作，適用於電腦、手機、平板。除咗測速工具本身，SpeedTest HK 亦整合咗大量香港網絡相關嘅實用內容，包括香港主要寬頻供應商比較（網上行 / HKBN / HGC / SmarTone Home 5G / 3 Home 5G / CMHK）、12 大本地 SIM 卡實測下載速度排名、串流平台嘅最低網速建議、同網絡術語中英對照詞彙表。\n\n網站最新加入嘅月度報告系列（/reports/）係香港少數持續分析 OFCA 通訊事務管理局透過 data.gov.hk 公開嘅電訊統計嘅 publication。每月跟進香港 5G 用戶數、4G 流動用戶、住宅 1Gbps 光纖訂戶、人均流動數據用量等核心指標，並提供本地化嘅 commentary 解讀。技術上，SpeedTest HK 由 WordPress 遷移至 Astro 5.x 靜態網站，部署於 Cloudflare Worker，達到全球 CDN 級別嘅載入速度（< 1 秒）同近乎零維護成本。網站適用於：唔知自己網速係咪達標嘅一般用戶、想揀寬頻或 mobile plan 嘅消費者、IT / 媒體業界需要香港網絡 baseline data 嘅工作者。",
+      "topicalRelevance": ["speed test", "broadband", "5G mobile", "ISP comparison", "OFCA data"]
+    },
+    {
+      "domain": "primaryhk.com",
+      "url": "https://primaryhk.com/",
+      "name": "PrimaryHK",
+      "nameZh": "PrimaryHK 香港小學入學資訊",
+      "tagline": "香港直資及私立小學入學資料庫",
+      "category": "education",
+      "categoryZh": "教育 / 升學",
+      "lang": "zh-Hant-HK",
+      "shortDescription": "香港 21 間直資小學 + 33 間私立小學嘅入學資訊、學費、面試資料同收生統計。",
+      "longDescription": "PrimaryHK 係專為香港家長而設嘅直資及私立小學入學資訊平台，集中整理 21 間直資小學同 33 間私立小學共 54 間學校嘅完整入學資料。每間學校嘅 profile 包括：歷年學費同雜費、收生人數、面試形式同題型、學校特色（IB / DSE / 美國課程 / 英國課程）、語言政策、課外活動、升中銜接學校、地址同校巴覆蓋區域、近年家長真實反饋嘅整理。對應香港私小升學申請季節（每年 9 月至翌年 1 月），PrimaryHK 持續更新各校最新動態，包括 open day 日期、申請截止日、面試安排、放榜時間。\n\n網站採用會員訂閱模式（HK$50 / 月），確保內容質素同無廣告干擾，付費會員可解鎖完整學校 profile、入學成功率比較、家長社群討論區同每月升學專欄。設計上以 React 19 + Vite 8 + Firebase Auth + Stripe 支付，確保速度快同數據安全。對於計劃為小朋友報讀直資 / 私立小學嘅香港家長嚟講，PrimaryHK 係省去自己分別 google 54 間學校官網嘅 painful work 嘅一站式解決方案。網站亦會適時加入專題文章，例如「點樣準備小一面試」、「直資 vs 私立 vs 國際學校選擇指南」、「啱港爸媽嘅 50 條面試題」。隨住現代香港兒童學習越來越依賴穩定家居寬頻（網課、Khan Academy、AI 學習工具），家居網絡質素亦成為家長要考慮嘅 infrastructure。",
+      "topicalRelevance": ["primary school admission", "direct subsidy school", "private school", "K-12 education"]
+    },
+    {
+      "domain": "simcardhk.com",
+      "url": "https://simcardhk.com/",
+      "name": "SimCardHK",
+      "nameZh": "SimCardHK 香港 SIM 卡比較",
+      "tagline": "香港最新 SIM 卡價格同上台計劃比較",
+      "category": "telecom",
+      "categoryZh": "電訊 / SIM 卡",
+      "lang": "zh-Hant-HK",
+      "shortDescription": "香港本地 SIM 卡、儲值卡、上台計劃、漫遊 SIM 嘅價格比較資料庫。",
+      "longDescription": "SimCardHK 集中整理香港市面上各類 SIM 卡嘅最新價格、計劃內容同特性，包括本地儲值卡（DIY 儲值卡、鴨聊佳、Happy SIM、3HK 國際萬能卡、Activate ValueGB、MORE Mobile、hahaSIM、Your Mobile、abc Mobile、環球通訊、HK Mobile、Lucky SIM 等十多個品牌）、各大電訊商上台計劃（CSL、SmarTone、3HK、CMHK、China Mobile HK、HKT mobile、Birdie Mobile）、漫遊 SIM 同 eSIM、新興 MVNO 計劃。每張 SIM 嘅 profile 包括：本地數據配額、5G / 4G 支援、通話分鐘、SMS 配額、漫遊覆蓋國家同地區、有效期、購買渠道（門市 / 7-11 / VanGo / 網上 / Klook）、同綑綁優惠。\n\n網站亦提供熱門用途嘅 SIM 卡推薦表，例如「最平 100GB 5G 月費」、「短期遊客 7 日 SIM」、「長者最低使用量 plan」、「需要香港號碼嘅外地用家」、「IoT / M2M 用嘅低月費 SIM」。價格更新採用編輯定期 audit 機制，唔似某啲只 scrape 一次就算嘅 site。\n\nSimCardHK 嘅設計目標係令香港讀者用最少時間揀啱合適嘅 SIM 卡 — 唔需要分別 google 十幾間電訊商官網或者問人。技術 stack 為 Astro 5.x + Firebase Hosting，DNS 由 Cloudflare 管理，全球 CDN 加速。同時亦同 SpeedTest HK 嘅本地 SIM 速度實測形成完整資訊鏈：SpeedTest HK 提供「邊張 SIM 香港網絡最快」嘅速度數據，SimCardHK 提供「邊張 SIM 最抵 / 最啱我用」嘅價格同計劃資訊，兩者互補。",
+      "topicalRelevance": ["SIM cards", "prepaid", "mobile plans", "roaming", "5G plans"]
+    }
+  ],
+  "lastUpdated": "2026-04-18",
+  "schemaVersion": "1.0"
+}
